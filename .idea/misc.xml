@@ -6,10 +6,16 @@
       <list>
         <option value="$PROJECT_DIR$/Easy/pom.xml" />
         <option value="$PROJECT_DIR$/TREE/pom.xml" />
+        <option value="$PROJECT_DIR$/Tree-Medium/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/TREE/pom.xml" />
+      </set>
+    </option>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" project-jdk-name="20" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

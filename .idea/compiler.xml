@@ -6,8 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Easy" />
+        <module name="Tree-Medium" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Easy" target="1.7" />
+      <module name="TREE" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
